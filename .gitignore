@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# auth.pass
+auth.pass
 {
   "consumer_key":"zXlGZmqogeuT4HfYQHbkHkTJL",
   "consumer_secret":"tmbsYmLNIw7bc4OvT2hbjrAa0CX9LeoxyLFZTEOA5n3azEv124",
